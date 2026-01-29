@@ -18,7 +18,7 @@ const skillCategories = {
     },
     {
       title: "Outros",
-      skills: ["Clean Architecture", "Design Systems", "Axios", "React Router", "Context API", "Hooks"],
+      skills: ["Clean Architecture", "Design Systems", "Pixel Perfect", "Axios", "React Router", "Context API", "Hooks"],
     },
   ],
   en: [
@@ -36,7 +36,7 @@ const skillCategories = {
     },
     {
       title: "Other",
-      skills: ["Clean Architecture", "Design Systems", "Axios", "React Router", "Context API", "Hooks"],
+      skills: ["Clean Architecture", "Design Systems", "Pixel Perfect", "Axios", "React Router", "Context API", "Hooks"],
     },
   ],
 }
