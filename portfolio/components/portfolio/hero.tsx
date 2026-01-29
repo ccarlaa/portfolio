@@ -4,6 +4,7 @@ import { Github, Linkedin, Mail, MapPin } from "lucide-react"
 import { useLocale } from "@/lib/locale-context"
 import { LocaleToggle } from "./locale-toggle"
 import { ThemeToggle } from "./theme-toggle"
+import { AccentColorPicker } from "@/components/portfolio/accent-color-picker"
 import Link from "next/link"
 
 const socialLinks = [
@@ -31,6 +32,7 @@ export function Hero() {
             </h2>
           </div>
           <div className="flex items-center gap-2">
+            <AccentColorPicker />
             <ThemeToggle />
             <LocaleToggle />
           </div>

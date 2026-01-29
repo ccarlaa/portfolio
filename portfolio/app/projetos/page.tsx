@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { useLocale } from "@/lib/locale-context"
 import { LocaleToggle } from "@/components/portfolio/locale-toggle"
 import { ThemeToggle } from "@/components/portfolio/theme-toggle"
+import { AccentColorPicker } from "@/components/portfolio/accent-color-picker"
 import Link from "next/link"
 
 type Project = {
@@ -223,6 +224,7 @@ export default function ProjectsPage() {
               </Button>
             </Link>
             <div className="flex items-center gap-2">
+              <AccentColorPicker />
               <ThemeToggle />
               <LocaleToggle />
             </div>

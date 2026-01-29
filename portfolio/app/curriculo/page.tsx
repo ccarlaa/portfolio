@@ -3,6 +3,7 @@
 import { useLocale } from "@/lib/locale-context"
 import { LocaleToggle } from "@/components/portfolio/locale-toggle"
 import { ThemeToggle } from "@/components/portfolio/theme-toggle"
+import { AccentColorPicker } from "@/components/portfolio/accent-color-picker"
 import { ArrowLeft, MapPin, Mail, Linkedin, Github, Printer } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
@@ -280,6 +281,7 @@ export default function ResumePage() {
               <Printer className="h-4 w-4" />
               {t.print}
             </Button>
+            <AccentColorPicker />
             <ThemeToggle />
             <LocaleToggle />
           </div>
