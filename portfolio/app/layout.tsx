@@ -8,10 +8,10 @@ import './globals.css'
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: 'Carla Clementino | Desenvolvedora Frontend',
-  description: 'Desenvolvedora Frontend Pleno especializada em React, TypeScript e Tailwind CSS. Estudante de Engenharia de Software na UnB, Brasília.',
+  title: 'Carla Clementino | Software Engineer',
+  description: 'Software Engineer specializing in React, TypeScript, and Tailwind CSS. Software Engineering student at UnB, Brasília.',
   generator: 'v0.app',
-  keywords: ['Frontend', 'React', 'TypeScript', 'Tailwind', 'Desenvolvedora', 'Brasília', 'UnB', 'Carla Clementino'],
+  keywords: ['Frontend', 'React', 'TypeScript', 'Tailwind', 'Software Engineer', 'Brasília', 'UnB', 'Carla Clementino'],
   authors: [{ name: 'Carla Clementino' }],
   icons: {
     icon: [

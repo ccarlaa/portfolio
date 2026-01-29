@@ -156,7 +156,7 @@ const projects: Record<string, Project[]> = {
       title: "Switch-UI",
       description: "Reusable component library",
       longDescription:
-        "Participated in creating a TypeScript component library for internal use at Switch Dreams. The library includes standardized, documented and tested UI components, facilitating the development of new projects with visual consistency.",
+        "Contributed to creating a TypeScript component library for internal use at Switch Dreams. The library includes standardized, documented and tested UI components, facilitating the development of new projects with visual consistency.",
       technologies: ["TypeScript", "Tailwind CSS", "Storybook", "Jest"],
       hasCode: false,
       type: "switch-dreams",
@@ -203,7 +203,7 @@ export default function ProjectsPage() {
     },
     en: {
       title: "Projects",
-      subtitle: "A selection of projects I participated in throughout my career",
+      subtitle: "A selection of projects I contributed to throughout my career",
       back: "Back",
       codeNotAvailable: "Code not available (private project)",
       viewProject: "View project",

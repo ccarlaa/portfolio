@@ -16,7 +16,7 @@ const resumeData = {
     contact: "Contato",
     summary: "Resumo",
     summaryText:
-      "Desenvolvedora Frontend Pleno com experiência em criar interfaces web modernas, acessíveis e performáticas. Especializada em React, TypeScript, Tailwind CSS e Ruby on Rails. Estudante de Engenharia de Software na Universidade de Brasília, combinando conhecimento acadêmico com experiência prática em projetos reais.",
+      "Engenheira de Software com experiência em criar interfaces web modernas, acessíveis e performáticas. Especializada em React, TypeScript, Tailwind CSS e Ruby on Rails. Estudante de Engenharia de Software na Universidade de Brasília, combinando conhecimento acadêmico com experiência prática em projetos reais.",
     experience: "Experiência Profissional",
     education: "Formação Acadêmica",
     courses: "Cursos",
@@ -27,7 +27,7 @@ const resumeData = {
     experiences: [
       {
         company: "Switch Dreams Technology Development LTDA",
-        role: "Desenvolvedora Frontend Pleno",
+        role: "Engenheira de Software",
         period: "12/2024 — Presente",
         location: "Brasília, DF",
         description: [
@@ -139,7 +139,7 @@ const resumeData = {
     contact: "Contact",
     summary: "Summary",
     summaryText:
-      "Mid-Level Frontend Developer with experience building modern, accessible, and performant web interfaces. Specialized in React, TypeScript, Tailwind CSS, and Ruby on Rails. Software Engineering student at University of Brasília, combining academic knowledge with hands-on experience in real-world projects.",
+      "Software Engineer with experience building modern, accessible, and performant web interfaces. Specialized in React, TypeScript, Tailwind CSS, and Ruby on Rails. Software Engineering student at University of Brasília, combining academic knowledge with hands-on experience in real-world projects.",
     experience: "Professional Experience",
     education: "Education",
     courses: "Courses",
@@ -150,7 +150,7 @@ const resumeData = {
     experiences: [
       {
         company: "Switch Dreams Technology Development LTDA",
-        role: "Mid-Level Frontend Developer",
+        role: "Software Engineer",
         period: "12/2024 — Present",
         location: "Brasília, Brazil",
         description: [
@@ -294,7 +294,7 @@ export default function ResumePage() {
         <section className="mb-10 print:mb-6">
           <h1 className="text-4xl font-bold text-foreground mb-2 print:text-3xl">Carla Clementino</h1>
           <p className="text-xl text-primary mb-4 print:text-lg">
-            {locale === "pt" ? "Desenvolvedora Frontend Pleno" : "Mid-Level Frontend Developer"}
+            {locale === "pt" ? "Engenheira de Software" : "Software Engineer"}
           </p>
           
           <div className="flex flex-wrap gap-4 text-sm text-muted-foreground">

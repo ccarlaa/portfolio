@@ -21,7 +21,7 @@ function ProjectsPreview() {
       <p className="text-muted-foreground mb-6">
         {t.projects.title === "Projetos" 
           ? "Confira os projetos que participei durante minha carreira na Switch Dreams e como freelancer."
-          : "Check out the projects I participated in during my career at Switch Dreams and as a freelancer."
+          : "Check out the projects I contributed to during my career at Switch Dreams and as a freelancer."
         }
       </p>
       

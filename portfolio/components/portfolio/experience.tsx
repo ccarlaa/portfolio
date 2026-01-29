@@ -8,7 +8,7 @@ const experiences = {
   pt: [
     {
       period: "12/2024 — Presente",
-      title: "Desenvolvedora Frontend Pleno",
+      title: "Engenheira de Software",
       company: "Switch Dreams",
       companyUrl: "https://switchdreams.com.br",
       description:
@@ -28,7 +28,7 @@ const experiences = {
   en: [
     {
       period: "12/2024 — Present",
-      title: "Mid-Level Frontend Developer",
+      title: "Software Engineer · Júnior",
       company: "Switch Dreams",
       companyUrl: "https://switchdreams.com.br",
       description:

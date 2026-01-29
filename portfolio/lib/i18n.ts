@@ -4,7 +4,7 @@ export const translations = {
   pt: {
     hero: {
       greeting: "Olá, eu sou",
-      role: "Desenvolvedora Frontend Pleno",
+      role: "Engenheira de Software",
       description:
         "Crio interfaces acessíveis e responsivas combinando design cuidadoso com engenharia robusta. Atualmente trabalho na Switch Dreams, desenvolvendo soluções web para diversos clientes com React, TypeScript, Tailwind e Ruby on Rails.",
       location: "Brasília, DF",
@@ -18,7 +18,7 @@ export const translations = {
     about: {
       title: "Sobre",
       content: [
-        "Sou desenvolvedora frontend na Switch Dreams, onde planejo arquiteturas de design systems e desenvolvo interfaces responsivas e acessíveis usando React.js, Ruby on Rails, TypeScript e diversas outras tecnologias.",
+        "Sou engenheira de software na Switch Dreams, onde planejo arquiteturas de design systems e desenvolvo interfaces responsivas e acessíveis usando React.js, Ruby on Rails, TypeScript e diversas outras tecnologias.",
         "Atualmente curso Engenharia de Software na Universidade de Brasília (UnB), onde combino conhecimento acadêmico com experiência prática em projetos reais.",
         "Além do trabalho, participo de projetos extracurriculares como desenvolvimento de software para antenas de satélite e sistemas de qualidade de água, e já atuei como monitora de Cálculo 1 e 2 na UnB.",
       ],
@@ -46,7 +46,7 @@ export const translations = {
   en: {
     hero: {
       greeting: "Hi, I'm",
-      role: "Mid-Level Frontend Developer",
+      role: "Software Engineer",
       description:
         "I build accessible and responsive interfaces combining thoughtful design with solid engineering. Currently working at Switch Dreams, developing web solutions for various clients with React, TypeScript, Tailwind and Ruby on Rails.",
       location: "Brasília, Brazil",
@@ -60,7 +60,7 @@ export const translations = {
     about: {
       title: "About",
       content: [
-        "I'm a frontend developer at Switch Dreams, where I plan design system architectures and develop responsive and accessible interfaces using React.js, Ruby on Rails, TypeScript and various other technologies.",
+        "I'm a software engineer at Switch Dreams, where I plan design system architectures and develop responsive and accessible interfaces using React.js, Ruby on Rails, TypeScript and various other technologies.",
         "I'm currently pursuing a Software Engineering degree at University of Brasília (UnB), combining academic knowledge with hands-on experience in real-world projects.",
         "Besides work, I participate in extracurricular projects such as satellite antenna software development and water quality systems, and I've worked as a Calculus 1 and 2 tutor at UnB.",
       ],
