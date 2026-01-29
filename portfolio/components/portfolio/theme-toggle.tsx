@@ -9,7 +9,7 @@ export function ThemeToggle() {
   return (
     <button
       onClick={toggleTheme}
-      className="flex items-center justify-center w-8 h-8 rounded border border-border hover:border-muted-foreground text-muted-foreground hover:text-foreground transition-colors"
+      className="flex items-center justify-center w-8 h-8 rounded border border-border hover:border-muted-foreground text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
       aria-label={theme === "dark" ? "Ativar modo claro" : "Ativar modo escuro"}
     >
       {theme === "dark" ? (

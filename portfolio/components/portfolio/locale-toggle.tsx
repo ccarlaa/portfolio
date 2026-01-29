@@ -8,7 +8,7 @@ export function LocaleToggle() {
   return (
     <button
       onClick={() => setLocale(locale === "pt" ? "en" : "pt")}
-      className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground transition-colors px-2 py-1 rounded border border-border hover:border-muted-foreground"
+      className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground transition-colors px-2 py-1 rounded border border-border hover:border-muted-foreground cursor-pointer"
       aria-label={locale === "pt" ? "Switch to English" : "Mudar para Português"}
     >
       <span className={locale === "pt" ? "text-foreground" : ""}>PT</span>

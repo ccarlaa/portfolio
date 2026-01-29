@@ -271,7 +271,7 @@ export default function ResumePage() {
       <header className="sticky top-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border print:hidden">
         <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link href="/">
-            <Button variant="ghost" size="sm" className="gap-2 cursor-pointer">
+            <Button variant="ghost" size="sm" className="gap-2">
               <ArrowLeft className="h-4 w-4" />
               {t.backHome}
             </Button>

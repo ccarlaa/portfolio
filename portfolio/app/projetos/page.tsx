@@ -218,7 +218,7 @@ export default function ProjectsPage() {
         <header className="mb-12">
           <div className="flex items-center justify-between mb-8">
             <Link href="/">
-              <Button variant="ghost" size="sm" className="gap-2 cursor-pointer">
+              <Button variant="ghost" size="sm" className="gap-2">
                 <ArrowLeft className="h-4 w-4" />
                 {text.back}
               </Button>
