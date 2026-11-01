@@ -28,7 +28,7 @@ const resumeData = {
       {
         company: "Switch Dreams Technology Development LTDA",
         role: "Engenheira de Software",
-        period: "12/2024 — Presente",
+        period: "12/2024 — 2026",
         location: "Brasília, DF",
         description: [
           "Planejamento da arquitetura frontend para design systems",
@@ -55,10 +55,18 @@ const resumeData = {
     ],
     educationList: [
       {
-        institution: "Universidade de Brasília (UnB)",
+        institution: "ENSICAEN, Caen, França",
+        degree: "Diploma de Engenheiro em Engenharia Física e Sistemas Embarcados (dupla diplomação BRAFITEC)",
+        period: "2026 — Presente",
+        description:
+          "Ênfase em Sistemas Embarcados e Automação: sistemas de tempo real, microcontroladores e protocolos de comunicação.",
+      },
+      {
+        institution: "Universidade de Brasília (UnB), Brasília, Brasil",
         degree: "Bacharelado em Engenharia de Software",
         period: "06/2022 — Presente",
-        description: "",
+        description:
+          "Arquitetura de software, design patterns, testes e qualidade, engenharia de requisitos, gestão de projetos e bancos de dados.",
       },
     ],
     coursesList: [
@@ -81,7 +89,7 @@ const resumeData = {
     extracurricularList: [
       {
         title: "Desenvolvimento de Software para Posição de Antena para Recepção de Satélite",
-        period: "06/2025 — Presente",
+        period: "06/2025 — 06/2026",
         description: "Desenvolvendo desde o design do sistema até o código",
       },
       {
@@ -129,7 +137,7 @@ const resumeData = {
     languagesList: [
       { name: "Português", level: "Nativo" },
       { name: "Inglês", level: "Avançado (C1)" },
-      { name: "Francês", level: "Básico (B1)" },
+      { name: "Francês", level: "Avançado (C1)" },
     ],
   },
   en: {
@@ -151,7 +159,7 @@ const resumeData = {
       {
         company: "Switch Dreams Technology Development LTDA",
         role: "Software Engineer",
-        period: "12/2024 — Present",
+        period: "12/2024 — 2026",
         location: "Brasília, Brazil",
         description: [
           "Planning frontend architecture for design systems",
@@ -178,10 +186,18 @@ const resumeData = {
     ],
     educationList: [
       {
-        institution: "University of Brasília (UnB)",
+        institution: "ENSICAEN, Caen, France",
+        degree: "Engineering Degree in Physics Engineering and Embedded Systems (BRAFITEC double degree)",
+        period: "2026 — Present",
+        description:
+          "Embedded Systems and Automation major: real-time systems, microcontrollers and communication protocols.",
+      },
+      {
+        institution: "University of Brasília (UnB), Brasília, Brazil",
         degree: "Bachelor's Degree in Software Engineering",
         period: "06/2022 — Present",
-        description: "",
+        description:
+          "Software architecture, design patterns, testing and quality, requirements engineering, project management and databases.",
       },
     ],
     coursesList: [
@@ -204,7 +220,7 @@ const resumeData = {
     extracurricularList: [
       {
         title: "Software Development for Antenna Position for Satellite Reception",
-        period: "06/2025 — Present",
+        period: "06/2025 — 06/2026",
         description: "Developing from system design to code",
       },
       {
@@ -252,7 +268,7 @@ const resumeData = {
     languagesList: [
       { name: "Portuguese", level: "Native" },
       { name: "English", level: "Advanced (C1)" },
-      { name: "French", level: "Basic (B1)" },
+      { name: "French", level: "Advanced (C1)" },
     ],
   },
 }
@@ -306,7 +322,7 @@ export default function ResumePage() {
               <Mail className="h-4 w-4" />
               carlacarlaclementino@gmail.com
             </a>
-            <a href="https://www.linkedin.com/in/carla-clementino-53b6441b1/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-primary transition-colors">
+            <a href="www.linkedin.com/in/carlaacr" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-primary transition-colors">
               <Linkedin className="h-4 w-4" />
               LinkedIn
             </a>

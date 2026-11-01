@@ -31,7 +31,7 @@ const projects: Record<string, Project[]> = {
       liveUrl: "https://eduqbrasil.com.br/",
       hasCode: false,
       type: "switch-dreams",
-      year: "2023-atualmente",
+      year: "2023-2026",
     },
     {
       title: "Geedee",
@@ -107,7 +107,7 @@ const projects: Record<string, Project[]> = {
       liveUrl: "https://eduqbrasil.com.br/",
       hasCode: false,
       type: "switch-dreams",
-      year: "2023-atualmente",
+      year: "2023-2026",
     },
     {
       title: "Geedee",
@@ -170,7 +170,7 @@ const projects: Record<string, Project[]> = {
       technologies: ["React", "TypeScript", "Tailwind CSS", "Figma"],
       hasCode: true,
       type: "freelance",
-      year: "2023-atualmente",
+      year: "2023-2026",
     },
   ],
 }

@@ -7,7 +7,7 @@ import { useLocale } from "@/lib/locale-context"
 const experiences = {
   pt: [
     {
-      period: "12/2024 — Presente",
+      period: "12/2024 — 06/2026",
       title: "Engenheira de Software",
       company: "Switch Dreams",
       companyUrl: "https://switchdreams.com.br",
@@ -27,7 +27,7 @@ const experiences = {
   ],
   en: [
     {
-      period: "12/2024 — Present",
+      period: "12/2024 — 2026",
       title: "Software Engineer · Júnior",
       company: "Switch Dreams",
       companyUrl: "https://switchdreams.com.br",
